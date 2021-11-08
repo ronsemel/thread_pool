@@ -1,0 +1,2 @@
+add_subdirectory(prime_calc)
+add_subdirectory(thread_pool)
